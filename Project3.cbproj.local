@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/10/21 19:22:57.000.715,=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\Project3PCH1.h</Transaction>
+    <Transaction>2021/10/21 19:22:59.000.568,=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2021/10/21 19:23:18.000.297,=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/10/21 19:24:03.000.610,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Student.cpp</Transaction>
+    <Transaction>2021/10/21 19:24:03.000.610,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Student.h</Transaction>
+    <Transaction>2021/10/21 19:25:17.000.398,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\File1.cpp=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\main.cpp</Transaction>
+    <Transaction>2021/10/21 19:26:28.000.734,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\Project3PCH1.h=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Project3PCH1.h</Transaction>
+    <Transaction>2021/10/21 19:26:31.000.235,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\Project3.cbproj=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Project3.cbproj</Transaction>
+    <Transaction>2021/10/25 19:34:30.804,=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Unit1.cpp</Transaction>
+    <Transaction>2021/10/25 19:34:47.813,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\AttendanceManagement.h=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Unit1.h</Transaction>
+    <Transaction>2021/10/25 19:34:47.813,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\AttendanceManagement.cpp=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Unit1.cpp</Transaction>
+    <Transaction>2021/10/25 19:36:45.916,=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Unit1.cpp</Transaction>
+    <Transaction>2021/10/25 19:37:10.727,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Course.cpp=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Unit1.cpp</Transaction>
+    <Transaction>2021/10/25 19:37:10.727,D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Course.h=D:\USUARIOS\Documents\Embarcadero\Studio\Projects\edi3\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
